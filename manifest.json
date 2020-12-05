@@ -1,0 +1,545 @@
+{
+ "files": [
+  {
+   "desc": "Just Enough Items (JEI)",
+   "fileID": 3109181,
+   "projectID": 238222,
+   "required": true
+  },
+  {
+   "desc": "Controlling",
+   "fileID": 3110995,
+   "projectID": 250398,
+   "required": true
+  },
+  {
+   "desc": "Cooking for Blockheads",
+   "fileID": 3098223,
+   "projectID": 231484,
+   "required": true
+  },
+  {
+   "desc": "ReAuth",
+   "fileID": 3105779,
+   "projectID": 237701,
+   "required": true
+  },
+  {
+   "desc": "Immersive Engineering",
+   "fileID": 3102280,
+   "projectID": 231951,
+   "required": true
+  },
+  {
+   "desc": "Biomes O' Plenty",
+   "fileID": 3125096,
+   "projectID": 220318,
+   "required": true
+  },
+  {
+   "desc": "Patchouli",
+   "fileID": 3086492,
+   "projectID": 306770,
+   "required": true
+  },
+  {
+   "desc": "Quark",
+   "fileID": 3117057,
+   "projectID": 243121,
+   "required": true
+  },
+  {
+   "desc": "Morpheus",
+   "fileID": 3114135,
+   "projectID": 69118,
+   "required": true
+  },
+  {
+   "desc": "Mekanism",
+   "fileID": 3100510,
+   "projectID": 268560,
+   "required": true
+  },
+  {
+   "desc": "Thermal Foundation",
+   "fileID": 3104383,
+   "projectID": 222880,
+   "required": true
+  },
+  {
+   "desc": "Fast Leaf Decay",
+   "fileID": 3052146,
+   "projectID": 230976,
+   "required": true
+  },
+  {
+   "desc": "Dark Utilities",
+   "fileID": 3112893,
+   "projectID": 242195,
+   "required": true
+  },
+  {
+   "desc": "Nature's Compass",
+   "fileID": 3123531,
+   "projectID": 252848,
+   "required": true
+  },
+  {
+   "desc": "Thermal Expansion",
+   "fileID": 3104355,
+   "projectID": 69163,
+   "required": true
+  },
+  {
+   "desc": "FastFurnace",
+   "fileID": 3069048,
+   "projectID": 299540,
+   "required": true
+  },
+  {
+   "desc": "Enchantment Descriptions",
+   "fileID": 3112901,
+   "projectID": 250419,
+   "required": true
+  },
+  {
+   "desc": "Comforts",
+   "fileID": 3107489,
+   "projectID": 276951,
+   "required": true
+  },
+  {
+   "desc": "Thermal Innovation",
+   "fileID": 3101645,
+   "projectID": 291737,
+   "required": true
+  },
+  {
+   "desc": "The One Probe",
+   "fileID": 3108607,
+   "projectID": 245211,
+   "required": true
+  },
+  {
+   "desc": "McJtyLib",
+   "fileID": 3116381,
+   "projectID": 233105,
+   "required": true
+  },
+  {
+   "desc": "NetherPortalFix",
+   "fileID": 3098229,
+   "projectID": 241160,
+   "required": true
+  },
+  {
+   "desc": "Immersive Petroleum",
+   "fileID": 3109197,
+   "projectID": 268250,
+   "required": true
+  },
+  {
+   "desc": "GraveStone Mod",
+   "fileID": 3123626,
+   "projectID": 238551,
+   "required": true
+  },
+  {
+   "desc": "Useful Backpacks",
+   "fileID": 3106326,
+   "projectID": 274338,
+   "required": true
+  },
+  {
+   "desc": "PneumaticCraft: Repressurized",
+   "fileID": 3102868,
+   "projectID": 281849,
+   "required": true
+  },
+  {
+   "desc": "Macaw's Windows",
+   "fileID": 3100994,
+   "projectID": 363569,
+   "required": true
+  },
+  {
+   "desc": "Doggy Talents",
+   "fileID": 3113555,
+   "projectID": 271050,
+   "required": true
+  },
+  {
+   "desc": "Miner's Helmet",
+   "fileID": 3100362,
+   "projectID": 351948,
+   "required": true
+  },
+  {
+   "desc": "Engineer's Decor",
+   "fileID": 3131303,
+   "projectID": 313866,
+   "required": true
+  },
+  {
+   "desc": "Polymorph (Forge)",
+   "fileID": 3124715,
+   "projectID": 388800,
+   "required": true
+  },
+  {
+   "desc": "Valhelsia Structures",
+   "fileID": 3089925,
+   "projectID": 347488,
+   "required": true
+  },
+  {
+   "desc": "Charm",
+   "fileID": 3125992,
+   "projectID": 318872,
+   "required": true
+  },
+  {
+   "desc": "Simple Farming",
+   "fileID": 3100674,
+   "projectID": 327554,
+   "required": true
+  },
+ {
+   "desc": "Platforms",
+   "fileID": 3125052,
+   "projectID": 244786,
+   "required": true
+  },
+  {
+   "desc": "Decorative Blocks",
+   "fileID": 3113951,
+   "projectID": 362528,
+   "required": true
+  },
+  {
+   "desc": "YUNG's Better Caves (Forge)",
+   "fileID": 3110318,
+   "projectID": 340583,
+   "required": true
+  },
+  {
+   "desc": "Just Enough Resources (JER)",
+   "fileID": 3109962,
+   "projectID": 240630,
+   "required": true
+  },
+  {
+   "desc": "Astral Sorcery",
+   "fileID": 3131039,
+   "projectID": 241721,
+   "required": true
+  },
+  {
+   "desc": "YUNG's Better Mineshafts (Forge)",
+   "fileID": 3112344,
+   "projectID": 389665,
+   "required": true
+  },
+  {
+   "desc": "Absent by Design",
+   "fileID": 3069493,
+   "projectID": 305840,
+   "required": true
+  },
+  {
+   "desc": "Nature's Aura",
+   "fileID": 3124803,
+   "projectID": 306626,
+   "required": true
+  },
+  {
+   "desc": "Botany Pots",
+   "fileID": 3125084,
+   "projectID": 353928,
+   "required": true
+  },
+  {
+   "desc": "Inventory Tweaks Renewed",
+   "fileID": 3102237,
+   "projectID": 383070,
+   "required": true
+  },
+  {
+   "desc": "Mekanism Generators",
+   "fileID": 3100512,
+   "projectID": 268566,
+   "required": true
+  },
+  {
+   "desc": "Uppers",
+   "fileID": 3102260,
+   "projectID": 281274,
+   "required": true
+  },
+  {
+   "desc": "Macaw's Bridges",
+   "fileID": 3100993,
+   "projectID": 351725,
+   "required": true
+  },
+  {
+   "desc": "CC: Tweaked",
+   "fileID": 3104639,
+   "projectID": 282001,
+   "required": true
+  },
+  {
+   "desc": "Engineer's Tools",
+   "fileID": 3125358,
+   "projectID": 319716,
+   "required": true
+  },
+  {
+   "desc": "Resourceful Bees",
+   "fileID": 3093006,
+   "projectID": 384508,
+   "required": true
+  },
+  {
+   "desc": "Faster Ladder Climbing",
+   "fileID": 3121858,
+   "projectID": 258881,
+   "required": true
+  },
+  {
+   "desc": "Construction Wand",
+   "fileID": 3103815,
+   "projectID": 399558,
+   "required": true
+  },
+  {
+   "desc": "Useful Railroads",
+   "fileID": 3106342,
+   "projectID": 306475,
+   "required": true
+  },
+  {
+   "desc": "Pam's HarvestCraft 2 - Trees",
+   "fileID": 3117043,
+   "projectID": 365460,
+   "required": true
+  },
+  {
+   "desc": "CleanView",
+   "fileID": 3100873,
+   "projectID": 226889,
+   "required": true
+  },
+  {
+   "desc": "Additional Lights",
+   "fileID": 3116438,
+   "projectID": 384991,
+   "required": true
+  },
+  {
+   "desc": "Builders Crafts \u0026 Additions (Forge)",
+   "fileID": 3130407,
+   "projectID": 389697,
+   "required": true
+  },
+  {
+   "desc": "Transport",
+   "fileID": 3104138,
+   "projectID": 292692,
+   "required": true
+  },
+  {
+   "desc": "World Stripper",
+   "fileID": 3054192,
+   "projectID": 250603,
+   "required": true
+  },
+  {
+   "desc": "Bookshelf",
+   "fileID": 3127586,
+   "projectID": 228525,
+   "required": true
+  },
+  {
+   "desc": "CoFH Core",
+   "fileID": 3104353,
+   "projectID": 69162,
+   "required": true
+  },
+  {
+   "desc": "ShetiPhianCore",
+   "fileID": 3090382,
+   "projectID": 71738,
+   "required": true
+  },
+  {
+   "desc": "AutoRegLib",
+   "fileID": 3128555,
+   "projectID": 250363,
+   "required": true
+  },
+  {
+   "desc": "Placebo",
+   "fileID": 3092113,
+   "projectID": 283644,
+   "required": true
+  },
+  {
+   "desc": "U Team Core",
+   "fileID": 3114057,
+   "projectID": 273744,
+   "required": true
+  },
+  {
+   "desc": "Curios API (Forge)",
+   "fileID": 3122651,
+   "projectID": 309927,
+   "required": true
+  },
+  {
+   "desc": "ObserverLib",
+   "fileID": 3123187,
+   "projectID": 316833,
+   "required": true
+  },
+  {
+   "desc": "Titanium",
+   "fileID": 3130899,
+   "projectID": 287342,
+   "required": true
+  },
+  {
+   "desc": "Productive Bees",
+   "fileID": 3115448,
+   "projectID": 377897,
+   "required": true
+  },
+  {
+   "desc": "Thermal Cultivation",
+   "fileID": 3104385,
+   "projectID": 271835,
+   "required": true
+  },
+  {
+   "desc": "The Weirding Gadget",
+   "fileID": 3116235,
+   "projectID": 258914,
+   "required": true
+  },
+  {
+   "desc": "Storage Drawers",
+   "fileID": 3092987,
+   "projectID": 223852,
+   "required": true
+  },
+ {
+   "desc": "Pretty Beaches",
+   "fileID": 3066121,
+   "projectID": 290659,
+   "required": true
+  },
+  {
+   "desc": "Pam's HarvestCraft 2 - Food Core",
+   "fileID": 3068560,
+   "projectID": 372534,
+   "required": true
+  },
+  {
+   "desc": "Pam's HarvestCraft 2 - Crops",
+   "fileID": 3076451,
+   "projectID": 361385,
+   "required": true
+  },
+  {
+   "desc": "World Pre Generator",
+   "fileID": 3101104,
+   "projectID": 388157,
+   "required": true
+  },
+  {
+   "desc": "Traveller's Boots",
+   "fileID": 3056398,
+   "projectID": 321996,
+   "required": true
+  },
+  {
+   "desc": "Vanilla Excavators [Forge]",
+   "fileID": 3045195,
+   "projectID": 359786,
+   "required": true
+  },
+  {
+   "desc": "Actually Useful Stonecutter",
+   "fileID": 3115956,
+   "projectID": 394424,
+   "required": true
+  },
+  {
+   "desc": "Total Darkness",
+   "fileID": 3093337,
+   "projectID": 400838,
+   "required": true
+  },
+  {
+   "desc": "Tiny Coal",
+   "fileID": 3100603,
+   "projectID": 395272,
+   "required": true
+  },
+  {
+   "desc": "Storage Overhaul",
+   "fileID": 3105532,
+   "projectID": 382599,
+   "required": true
+  },
+  {
+   "desc": "End Portal Recipe",
+   "fileID": 3101910,
+   "projectID": 346030,
+   "required": true
+  },
+  {
+   "desc": "Crying Ghasts",
+   "fileID": 3101921,
+   "projectID": 344360,
+   "required": true
+  },
+  {
+   "desc": "Caged Mobs",
+   "fileID": 3126434,
+   "projectID": 417179,
+   "required": true
+  },
+  {
+   "desc": "Eroding Stone Entities",
+   "fileID": 3101908,
+   "projectID": 413431,
+   "required": true
+  },
+  {
+   "desc": "Collective",
+   "fileID": 3101763,
+   "projectID": 342584,
+   "required": true
+  },
+  {
+   "desc": "MoreVanillaLib",
+   "fileID": 3072512,
+   "projectID": 367254,
+   "required": true
+  }
+ ],
+ "manifestType": "minecraftModpack",
+ "manifestVersion": 1,
+ "minecraft": {
+  "modLoaders": [
+   {
+    "id": "forge-35.1.0",
+    "primary": true
+   }
+  ],
+  "version": "1.16.4"
+ },
+ "name": "dizzybuilds.s5",
+ "version": "0.0.1"
+}
