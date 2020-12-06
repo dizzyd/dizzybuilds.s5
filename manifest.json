@@ -22,7 +22,8 @@
    "desc": "ReAuth",
    "fileID": 3105779,
    "projectID": 237701,
-   "required": true
+   "required": true,
+   "clientOnly": true
   },
   {
    "desc": "Immersive Engineering",
@@ -408,13 +409,7 @@
    "projectID": 287342,
    "required": true
   },
-  {
-   "desc": "Productive Bees",
-   "fileID": 3115448,
-   "projectID": 377897,
-   "required": true
-  },
-  {
+ {
    "desc": "Thermal Cultivation",
    "fileID": 3104385,
    "projectID": 271835,
@@ -478,7 +473,8 @@
    "desc": "Total Darkness",
    "fileID": 3093337,
    "projectID": 400838,
-   "required": true
+   "required": true,
+   "clientOnly": true
   },
   {
    "desc": "Tiny Coal",
