@@ -19,11 +19,11 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "ReAuth",
    "fileID": 3105779,
    "projectID": 237701,
-   "required": true,
-   "clientOnly": true
+   "required": true
   },
   {
    "desc": "Immersive Engineering",
@@ -39,13 +39,13 @@
   },
   {
    "desc": "Patchouli",
-   "fileID": 3086492,
+   "fileID": 3126931,
    "projectID": 306770,
    "required": true
   },
   {
    "desc": "Quark",
-   "fileID": 3117057,
+   "fileID": 3128556,
    "projectID": 243121,
    "required": true
   },
@@ -123,7 +123,7 @@
   },
   {
    "desc": "McJtyLib",
-   "fileID": 3116381,
+   "fileID": 3131241,
    "projectID": 233105,
    "required": true
   },
@@ -153,7 +153,7 @@
   },
   {
    "desc": "PneumaticCraft: Repressurized",
-   "fileID": 3102868,
+   "fileID": 3130461,
    "projectID": 281849,
    "required": true
   },
@@ -195,7 +195,7 @@
   },
   {
    "desc": "Charm",
-   "fileID": 3125992,
+   "fileID": 3130375,
    "projectID": 318872,
    "required": true
   },
@@ -205,7 +205,7 @@
    "projectID": 327554,
    "required": true
   },
- {
+  {
    "desc": "Platforms",
    "fileID": 3125052,
    "projectID": 244786,
@@ -219,7 +219,7 @@
   },
   {
    "desc": "YUNG's Better Caves (Forge)",
-   "fileID": 3110318,
+   "fileID": 3128132,
    "projectID": 340583,
    "required": true
   },
@@ -231,7 +231,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 3131039,
+   "fileID": 3131455,
    "projectID": 241721,
    "required": true
   },
@@ -309,7 +309,7 @@
   },
   {
    "desc": "Construction Wand",
-   "fileID": 3103815,
+   "fileID": 3132410,
    "projectID": 399558,
    "required": true
   },
@@ -409,7 +409,7 @@
    "projectID": 287342,
    "required": true
   },
- {
+  {
    "desc": "Thermal Cultivation",
    "fileID": 3104385,
    "projectID": 271835,
@@ -427,7 +427,7 @@
    "projectID": 223852,
    "required": true
   },
- {
+  {
    "desc": "Pretty Beaches",
    "fileID": 3066121,
    "projectID": 290659,
@@ -470,11 +470,11 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Total Darkness",
    "fileID": 3093337,
    "projectID": 400838,
-   "required": true,
-   "clientOnly": true
+   "required": true
   },
   {
    "desc": "Tiny Coal",
@@ -502,7 +502,7 @@
   },
   {
    "desc": "Caged Mobs",
-   "fileID": 3126434,
+   "fileID": 3131689,
    "projectID": 417179,
    "required": true
   },
