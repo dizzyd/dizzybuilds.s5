@@ -194,12 +194,6 @@
    "required": true
   },
   {
-   "desc": "Charm",
-   "fileID": 3130375,
-   "projectID": 318872,
-   "required": true
-  },
-  {
    "desc": "Simple Farming",
    "fileID": 3100674,
    "projectID": 327554,
@@ -522,6 +516,18 @@
    "desc": "MoreVanillaLib",
    "fileID": 3072512,
    "projectID": 367254,
+   "required": true
+  },
+  {
+   "desc": "Supplementaries",
+   "fileID": 3136093,
+   "projectID": 412082,
+   "required": true
+  },
+  {
+   "desc": "Charm",
+   "fileID": 3111048,
+   "projectID": 318872,
    "required": true
   }
  ],
