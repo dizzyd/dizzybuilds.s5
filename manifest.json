@@ -520,9 +520,10 @@
   },
   {
    "desc": "Charm",
-   "fileID": 3140951,
+   "fileID": 3111048,
    "projectID": 318872,
-   "required": true
+   "required": true,
+   "locked": true
   },
   {
    "desc": "Tetra",
@@ -573,7 +574,7 @@
   "javaArgs": "-Xmx8G -XX:+UseG1GC",
   "modLoaders": [
    {
-    "id": "forge-35.1.0",
+    "id": "forge-35.1.13",
     "primary": true
    }
   ],
