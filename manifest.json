@@ -2,7 +2,7 @@
  "files": [
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 3109181,
+   "fileID": 3136600,
    "projectID": 238222,
    "required": true
   },
@@ -32,12 +32,6 @@
    "required": true
   },
   {
-   "desc": "Biomes O' Plenty",
-   "fileID": 3125096,
-   "projectID": 220318,
-   "required": true
-  },
-  {
    "desc": "Patchouli",
    "fileID": 3126931,
    "projectID": 306770,
@@ -45,7 +39,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 3128556,
+   "fileID": 3139878,
    "projectID": 243121,
    "required": true
   },
@@ -57,7 +51,7 @@
   },
   {
    "desc": "Mekanism",
-   "fileID": 3100510,
+   "fileID": 3134211,
    "projectID": 268560,
    "required": true
   },
@@ -81,7 +75,7 @@
   },
   {
    "desc": "Nature's Compass",
-   "fileID": 3123531,
+   "fileID": 3133521,
    "projectID": 252848,
    "required": true
   },
@@ -135,7 +129,7 @@
   },
   {
    "desc": "Immersive Petroleum",
-   "fileID": 3109197,
+   "fileID": 3137386,
    "projectID": 268250,
    "required": true
   },
@@ -225,7 +219,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 3131455,
+   "fileID": 3140203,
    "projectID": 241721,
    "required": true
   },
@@ -237,13 +231,13 @@
   },
   {
    "desc": "Absent by Design",
-   "fileID": 3069493,
+   "fileID": 3135824,
    "projectID": 305840,
    "required": true
   },
   {
    "desc": "Nature's Aura",
-   "fileID": 3124803,
+   "fileID": 3140498,
    "projectID": 306626,
    "required": true
   },
@@ -261,7 +255,7 @@
   },
   {
    "desc": "Mekanism Generators",
-   "fileID": 3100512,
+   "fileID": 3134213,
    "projectID": 268566,
    "required": true
   },
@@ -339,19 +333,19 @@
   },
   {
    "desc": "Transport",
-   "fileID": 3104138,
+   "fileID": 3136557,
    "projectID": 292692,
    "required": true
   },
   {
    "desc": "World Stripper",
-   "fileID": 3054192,
+   "fileID": 3139478,
    "projectID": 250603,
    "required": true
   },
   {
    "desc": "Bookshelf",
-   "fileID": 3127586,
+   "fileID": 3133712,
    "projectID": 228525,
    "required": true
   },
@@ -381,7 +375,7 @@
   },
   {
    "desc": "U Team Core",
-   "fileID": 3114057,
+   "fileID": 3136952,
    "projectID": 273744,
    "required": true
   },
@@ -520,14 +514,56 @@
   },
   {
    "desc": "Supplementaries",
-   "fileID": 3136093,
+   "fileID": 3139656,
    "projectID": 412082,
    "required": true
   },
   {
    "desc": "Charm",
-   "fileID": 3111048,
+   "fileID": 3140951,
    "projectID": 318872,
+   "required": true
+  },
+  {
+   "desc": "Tetra",
+   "fileID": 3104240,
+   "projectID": 289712,
+   "required": true
+  },
+  {
+   "desc": "mGui",
+   "fileID": 3104239,
+   "projectID": 351914,
+   "required": true
+  },
+  {
+   "desc": "RFTools Base",
+   "fileID": 3140147,
+   "projectID": 326041,
+   "required": true
+  },
+  {
+   "desc": "RFTools Storage",
+   "fileID": 3131254,
+   "projectID": 350006,
+   "required": true
+  },
+  {
+   "desc": "RFTools Builder",
+   "fileID": 3140151,
+   "projectID": 347706,
+   "required": true
+  },
+  {
+   "desc": "RFTools Utility",
+   "fileID": 3131250,
+   "projectID": 342466,
+   "required": true
+  },
+  {
+   "desc": "Ranged Pumps",
+   "fileID": 3065697,
+   "projectID": 247496,
    "required": true
   }
  ],
