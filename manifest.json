@@ -338,6 +338,7 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "World Stripper",
    "fileID": 3139478,
    "projectID": 250603,
@@ -521,9 +522,9 @@
   {
    "desc": "Charm",
    "fileID": 3111048,
+   "locked": true,
    "projectID": 318872,
-   "required": true,
-   "locked": true
+   "required": true
   },
   {
    "desc": "Tetra",
@@ -565,6 +566,42 @@
    "desc": "Ranged Pumps",
    "fileID": 3065697,
    "projectID": 247496,
+   "required": true
+  },
+  {
+   "desc": "Treemendous",
+   "fileID": 3106823,
+   "projectID": 414090,
+   "required": true
+  },
+  {
+   "desc": "Traverse Reforged",
+   "fileID": 3132645,
+   "projectID": 267769,
+   "required": true
+  },
+  {
+   "desc": "Village Spawn Point",
+   "fileID": 3101830,
+   "projectID": 347381,
+   "required": true
+  },
+  {
+   "desc": "Enhanced Mob Spawners",
+   "fileID": 3137385,
+   "projectID": 321663,
+   "required": true
+  },
+  {
+   "desc": "Industrial Foregoing",
+   "fileID": 3132070,
+   "projectID": 266515,
+   "required": true
+  },
+  {
+   "desc": "Applied Energistics 2",
+   "fileID": 3106770,
+   "projectID": 223794,
    "required": true
   }
  ],
