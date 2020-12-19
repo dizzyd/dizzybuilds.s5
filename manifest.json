@@ -27,7 +27,7 @@
   },
   {
    "desc": "Immersive Engineering",
-   "fileID": 3102280,
+   "fileID": 3141693,
    "projectID": 231951,
    "required": true
   },
@@ -135,7 +135,7 @@
   },
   {
    "desc": "GraveStone Mod",
-   "fileID": 3123626,
+   "fileID": 3142451,
    "projectID": 238551,
    "required": true
   },
@@ -171,13 +171,13 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 3131303,
+   "fileID": 3142901,
    "projectID": 313866,
    "required": true
   },
   {
    "desc": "Polymorph (Forge)",
-   "fileID": 3124715,
+   "fileID": 3141938,
    "projectID": 388800,
    "required": true
   },
@@ -201,7 +201,7 @@
   },
   {
    "desc": "Decorative Blocks",
-   "fileID": 3113951,
+   "fileID": 3142767,
    "projectID": 362528,
    "required": true
   },
@@ -340,7 +340,7 @@
   {
    "clientOnly": true,
    "desc": "World Stripper",
-   "fileID": 3139478,
+   "fileID": 3142092,
    "projectID": 250603,
    "required": true
   },
@@ -376,7 +376,7 @@
   },
   {
    "desc": "U Team Core",
-   "fileID": 3136952,
+   "fileID": 3143059,
    "projectID": 273744,
    "required": true
   },
@@ -515,7 +515,7 @@
   },
   {
    "desc": "Supplementaries",
-   "fileID": 3139656,
+   "fileID": 3142111,
    "projectID": 412082,
    "required": true
   },
@@ -546,7 +546,7 @@
   },
   {
    "desc": "RFTools Storage",
-   "fileID": 3131254,
+   "fileID": 3142803,
    "projectID": 350006,
    "required": true
   },
@@ -602,6 +602,12 @@
    "desc": "Applied Energistics 2",
    "fileID": 3106770,
    "projectID": 223794,
+   "required": true
+  },
+  {
+   "desc": "Create",
+   "fileID": 3142529,
+   "projectID": 328085,
    "required": true
   }
  ],
