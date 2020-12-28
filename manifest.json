@@ -27,7 +27,7 @@
   },
   {
    "desc": "Immersive Engineering",
-   "fileID": 3102280,
+   "fileID": 3141693,
    "projectID": 231951,
    "required": true
   },
@@ -39,7 +39,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 3139878,
+   "fileID": 3146131,
    "projectID": 243121,
    "required": true
   },
@@ -57,7 +57,7 @@
   },
   {
    "desc": "Thermal Foundation",
-   "fileID": 3104383,
+   "fileID": 3150696,
    "projectID": 222880,
    "required": true
   },
@@ -81,7 +81,7 @@
   },
   {
    "desc": "Thermal Expansion",
-   "fileID": 3104355,
+   "fileID": 3150697,
    "projectID": 69163,
    "required": true
   },
@@ -99,13 +99,13 @@
   },
   {
    "desc": "Comforts",
-   "fileID": 3107489,
+   "fileID": 3143312,
    "projectID": 276951,
    "required": true
   },
   {
    "desc": "Thermal Innovation",
-   "fileID": 3101645,
+   "fileID": 3147571,
    "projectID": 291737,
    "required": true
   },
@@ -129,7 +129,7 @@
   },
   {
    "desc": "Immersive Petroleum",
-   "fileID": 3137386,
+   "fileID": 3143267,
    "projectID": 268250,
    "required": true
   },
@@ -159,7 +159,7 @@
   },
   {
    "desc": "Doggy Talents",
-   "fileID": 3113555,
+   "fileID": 3151201,
    "projectID": 271050,
    "required": true
   },
@@ -177,7 +177,7 @@
   },
   {
    "desc": "Polymorph (Forge)",
-   "fileID": 3141938,
+   "fileID": 3149045,
    "projectID": 388800,
    "required": true
   },
@@ -201,7 +201,7 @@
   },
   {
    "desc": "Decorative Blocks",
-   "fileID": 3142767,
+   "fileID": 3147088,
    "projectID": 362528,
    "required": true
   },
@@ -219,19 +219,19 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 3140203,
+   "fileID": 3144866,
    "projectID": 241721,
    "required": true
   },
   {
    "desc": "YUNG's Better Mineshafts (Forge)",
-   "fileID": 3112344,
+   "fileID": 3145910,
    "projectID": 389665,
    "required": true
   },
   {
    "desc": "Absent by Design",
-   "fileID": 3135824,
+   "fileID": 3150841,
    "projectID": 305840,
    "required": true
   },
@@ -273,7 +273,7 @@
   },
   {
    "desc": "CC: Tweaked",
-   "fileID": 3104639,
+   "fileID": 3149334,
    "projectID": 282001,
    "required": true
   },
@@ -285,7 +285,7 @@
   },
   {
    "desc": "Resourceful Bees",
-   "fileID": 3093006,
+   "fileID": 3147776,
    "projectID": 384508,
    "required": true
   },
@@ -327,13 +327,13 @@
   },
   {
    "desc": "Builders Crafts \u0026 Additions (Forge)",
-   "fileID": 3130407,
+   "fileID": 3144564,
    "projectID": 389697,
    "required": true
   },
   {
    "desc": "Transport",
-   "fileID": 3136557,
+   "fileID": 3147851,
    "projectID": 292692,
    "required": true
   },
@@ -351,7 +351,7 @@
   },
   {
    "desc": "CoFH Core",
-   "fileID": 3104353,
+   "fileID": 3150694,
    "projectID": 69162,
    "required": true
   },
@@ -393,13 +393,13 @@
   },
   {
    "desc": "Titanium",
-   "fileID": 3130899,
+   "fileID": 3150284,
    "projectID": 287342,
    "required": true
   },
   {
    "desc": "Thermal Cultivation",
-   "fileID": 3104385,
+   "fileID": 3150698,
    "projectID": 271835,
    "required": true
   },
@@ -514,7 +514,7 @@
   },
   {
    "desc": "Supplementaries",
-   "fileID": 3142111,
+   "fileID": 3151128,
    "projectID": 412082,
    "required": true
   },
@@ -527,7 +527,7 @@
   },
   {
    "desc": "Tetra",
-   "fileID": 3104240,
+   "fileID": 3147835,
    "projectID": 289712,
    "required": true
   },
@@ -575,7 +575,7 @@
   },
   {
    "desc": "Traverse Reforged",
-   "fileID": 3132645,
+   "fileID": 3148698,
    "projectID": 267769,
    "required": true
   },
@@ -593,7 +593,7 @@
   },
   {
    "desc": "Industrial Foregoing",
-   "fileID": 3132070,
+   "fileID": 3150299,
    "projectID": 266515,
    "required": true
   },
@@ -605,7 +605,7 @@
   },
   {
    "desc": "Create",
-   "fileID": 3142529,
+   "fileID": 3146074,
    "projectID": 328085,
    "required": true
   },
