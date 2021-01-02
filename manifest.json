@@ -2,7 +2,7 @@
  "files": [
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 3136600,
+   "fileID": 3154910,
    "projectID": 238222,
    "required": true
   },
@@ -57,7 +57,7 @@
   },
   {
    "desc": "Thermal Foundation",
-   "fileID": 3150696,
+   "fileID": 3154872,
    "projectID": 222880,
    "required": true
   },
@@ -81,7 +81,7 @@
   },
   {
    "desc": "Thermal Expansion",
-   "fileID": 3150697,
+   "fileID": 3155370,
    "projectID": 69163,
    "required": true
   },
@@ -135,7 +135,7 @@
   },
   {
    "desc": "GraveStone Mod",
-   "fileID": 3142451,
+   "fileID": 3153233,
    "projectID": 238551,
    "required": true
   },
@@ -147,7 +147,7 @@
   },
   {
    "desc": "PneumaticCraft: Repressurized",
-   "fileID": 3130461,
+   "fileID": 3151305,
    "projectID": 281849,
    "required": true
   },
@@ -285,7 +285,7 @@
   },
   {
    "desc": "Resourceful Bees",
-   "fileID": 3147776,
+   "fileID": 3152858,
    "projectID": 384508,
    "required": true
   },
@@ -351,7 +351,7 @@
   },
   {
    "desc": "CoFH Core",
-   "fileID": 3150694,
+   "fileID": 3151513,
    "projectID": 69162,
    "required": true
   },
@@ -381,7 +381,7 @@
   },
   {
    "desc": "Curios API (Forge)",
-   "fileID": 3122651,
+   "fileID": 3154866,
    "projectID": 309927,
    "required": true
   },
@@ -557,7 +557,7 @@
   },
   {
    "desc": "RFTools Utility",
-   "fileID": 3131250,
+   "fileID": 3152948,
    "projectID": 342466,
    "required": true
   },
@@ -575,7 +575,7 @@
   },
   {
    "desc": "Traverse Reforged",
-   "fileID": 3148698,
+   "fileID": 3154785,
    "projectID": 267769,
    "required": true
   },
@@ -598,12 +598,6 @@
    "required": true
   },
   {
-   "desc": "Applied Energistics 2",
-   "fileID": 3106770,
-   "projectID": 223794,
-   "required": true
-  },
-  {
    "desc": "Create",
    "fileID": 3146074,
    "projectID": 328085,
@@ -613,6 +607,73 @@
    "desc": "Upstream",
    "fileID": 3139159,
    "projectID": 428483,
+   "required": true
+  },
+  {
+   "desc": "Xaero's World Map",
+   "fileID": 3153545,
+   "locked": true,
+   "projectID": 317780,
+   "required": true
+  },
+  {
+   "desc": "Simple Roads",
+   "fileID": 3153914,
+   "projectID": 252895,
+   "required": true
+  },
+  {
+   "desc": "Serene Seasons",
+   "fileID": 3154197,
+   "projectID": 291874,
+   "required": true
+  },
+  {
+   "desc": "Fancy Snowy Weather",
+   "fileID": 3154440,
+   "projectID": 420458,
+   "required": true
+  },
+  {
+   "desc": "Mana and Artifice",
+   "fileID": 3146123,
+   "projectID": 406360,
+   "required": true
+  },
+ {
+   "desc": "Traveler's Backpack",
+   "fileID": 3155224,
+   "projectID": 321117,
+   "required": true
+  },
+  {
+   "desc": "Item Collectors",
+   "fileID": 3145217,
+   "projectID": 395620,
+   "required": true
+  },
+  {
+   "desc": "Out Of Sight",
+   "fileID": 3143752,
+   "projectID": 428199,
+   "required": true
+  },
+  {
+   "desc": "Ceramic Bucket",
+   "fileID": 3143773,
+   "projectID": 363799,
+   "required": true
+  },
+  {
+   "desc": "Recipe for The Elytra",
+   "fileID": 3141505,
+   "projectID": 428086,
+   "required": true
+  },
+  {
+   "desc": "GeckoLib",
+   "fileID": 3135745,
+   "projectID": 388172,
    "required": true
   }
  ],
