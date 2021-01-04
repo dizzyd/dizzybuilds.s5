@@ -39,7 +39,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 3146131,
+   "fileID": 3156451,
    "projectID": 243121,
    "required": true
   },
@@ -57,7 +57,7 @@
   },
   {
    "desc": "Thermal Foundation",
-   "fileID": 3154872,
+   "fileID": 3155830,
    "projectID": 222880,
    "required": true
   },
@@ -81,7 +81,7 @@
   },
   {
    "desc": "Thermal Expansion",
-   "fileID": 3155370,
+   "fileID": 3155832,
    "projectID": 69163,
    "required": true
   },
@@ -99,13 +99,13 @@
   },
   {
    "desc": "Comforts",
-   "fileID": 3143312,
+   "fileID": 3156807,
    "projectID": 276951,
    "required": true
   },
   {
    "desc": "Thermal Innovation",
-   "fileID": 3147571,
+   "fileID": 3156588,
    "projectID": 291737,
    "required": true
   },
@@ -177,7 +177,7 @@
   },
   {
    "desc": "Polymorph (Forge)",
-   "fileID": 3149045,
+   "fileID": 3155740,
    "projectID": 388800,
    "required": true
   },
@@ -219,7 +219,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 3144866,
+   "fileID": 3156477,
    "projectID": 241721,
    "required": true
   },
@@ -351,7 +351,7 @@
   },
   {
    "desc": "CoFH Core",
-   "fileID": 3151513,
+   "fileID": 3155824,
    "projectID": 69162,
    "required": true
   },
@@ -387,7 +387,7 @@
   },
   {
    "desc": "ObserverLib",
-   "fileID": 3123187,
+   "fileID": 3156454,
    "projectID": 316833,
    "required": true
   },
@@ -399,7 +399,7 @@
   },
   {
    "desc": "Thermal Cultivation",
-   "fileID": 3150698,
+   "fileID": 3155831,
    "projectID": 271835,
    "required": true
   },
@@ -514,7 +514,7 @@
   },
   {
    "desc": "Supplementaries",
-   "fileID": 3151128,
+   "fileID": 3156594,
    "projectID": 412082,
    "required": true
   },
@@ -527,7 +527,7 @@
   },
   {
    "desc": "Tetra",
-   "fileID": 3147835,
+   "fileID": 3157641,
    "projectID": 289712,
    "required": true
   },
@@ -575,7 +575,7 @@
   },
   {
    "desc": "Traverse Reforged",
-   "fileID": 3154785,
+   "fileID": 3156621,
    "projectID": 267769,
    "required": true
   },
@@ -630,7 +630,7 @@
   },
   {
    "desc": "Fancy Snowy Weather",
-   "fileID": 3154440,
+   "fileID": 3156659,
    "projectID": 420458,
    "required": true
   },
@@ -640,7 +640,7 @@
    "projectID": 406360,
    "required": true
   },
- {
+  {
    "desc": "Traveler's Backpack",
    "fileID": 3155224,
    "projectID": 321117,
@@ -648,7 +648,7 @@
   },
   {
    "desc": "Item Collectors",
-   "fileID": 3145217,
+   "fileID": 3156474,
    "projectID": 395620,
    "required": true
   },
