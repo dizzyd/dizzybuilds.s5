@@ -683,7 +683,7 @@
   "javaArgs": "-Xmx8G -XX:+UseG1GC",
   "modLoaders": [
    {
-    "id": "forge-35.1.13",
+    "id": "forge-35.1.28",
     "primary": true
    }
   ],
